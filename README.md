@@ -27,4 +27,5 @@ $ npm start
 Пример авторзации пользователя:
 ![LogIn img](./static/LogIn.png)
 ![User img](./static/User.png)
+
 Если возникли сложности, пишите на почту: **Gaemvlad@gmail.com**
